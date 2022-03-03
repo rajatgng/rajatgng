@@ -24,6 +24,7 @@ Technologies I've been learning and using so far :
     ![Next JS](https://img.shields.io/badge/Next-eee?style=flat-square&logo=next.js&logoColor=000)
     ![Sass](https://img.shields.io/badge/-SASS-eee?style=flat-square&logo=sass&logoColor=CC6699)
     ![TailwindCSS](https://img.shields.io/badge/tailwindcss-eee.svg?style=flat-square&logo=tailwind-css&logoColor=2338B2AC)
+        <br />
     ![Electron.js](https://img.shields.io/badge/Electron-eee?style=flat-square&logo=Electron&logoColor=191970)
     ![React Native](https://img.shields.io/badge/react_native-eee.svg?style=flat-square&logo=react&logoColor=61DAFB)
     ![Redux](https://img.shields.io/badge/redux-eee.svg?style=flat-square&logo=redux&logoColor=593d88)
@@ -35,14 +36,17 @@ Technologies I've been learning and using so far :
     ![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat-square&logo=mongodb&logoColor=47A248)
     ![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)
     ![NodeJS](http://img.shields.io/badge/-NodeJS-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)
+    <br />
     ![Express.js](https://img.shields.io/badge/express.js-eee.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
     ![AdonisJS](https://img.shields.io/badge/adonisjs-eee.svg?style=flat-square&logo=adonisjs&logoColor=3178C6)
+    ![FastAPI](https://img.shields.io/badge/FastAPI-eee?style=flat-square&logo=fastapilogoColor=005571)
 
 - OS & IDE & Tools : <br />
     ![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)
     ![Linux](http://img.shields.io/badge/-Linux-eee?style=flat-square&logo=linux&logoColor=D67A10)
     ![Postman](http://img.shields.io/badge/-Postman-eee?style=flat-square&logo=postman&logoColor=FF6C37)
     ![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+    ![WebStorm](https://img.shields.io/badge/webstorm-eee?style=flat-square&logo=webstorm&logoColor=143)
 
 
 More about me 👉 [rajatwhocodes](https://rajatwhocodes.vercel.app/).
