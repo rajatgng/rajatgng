@@ -46,3 +46,5 @@ Technologies I've been learning and using so far :
 
 
 More about me 👉 [rajatwhocodes](https://rajatwhocodes.vercel.app/).
+
+![](https://komarev.com/ghpvc/?username=rajatgng&style=flat)
