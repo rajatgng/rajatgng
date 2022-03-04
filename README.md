@@ -6,7 +6,7 @@
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/dinhanhthi)](https://ko-fi.com/dinhanhthi) -->
 
 I'm a diligent Software Developer focused on developing innovative, scalable and cutting edge business solutions. Dedicated to building and optimizing user-focused websites and applications
-
+- :computer: I have experience in FULL stack web development.
 - 🌱 On the way of learning *Blockchain*.
 - 💌 Contact me at [rajatgng@gmail.com](mailto:rajatgng@gmail.com).
 
@@ -46,9 +46,13 @@ Technologies I've been learning and using so far :
     ![Linux](http://img.shields.io/badge/-Linux-eee?style=flat-square&logo=linux&logoColor=D67A10)
     ![Postman](http://img.shields.io/badge/-Postman-eee?style=flat-square&logo=postman&logoColor=FF6C37)
     ![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
-    ![WebStorm](https://img.shields.io/badge/webstorm-eee?style=flat-square&logo=webstorm&logoColor=143)
+    ![WebStorm](https://img.shields.io/badge/webstorm-eee?style=flat-square&logo=webstorm&logoColor=143)<br/>
 
+ 📶 Stats:<br>
+ 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatgng&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ 
+![](https://komarev.com/ghpvc/?username=rajatgng&style=flat)
 
 More about me 👉 [rajatwhocodes](https://rajatwhocodes.vercel.app/).
 
-![](https://komarev.com/ghpvc/?username=rajatgng&style=flat)
